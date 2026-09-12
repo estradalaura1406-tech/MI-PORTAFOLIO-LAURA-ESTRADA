@@ -1,8 +1,8 @@
 # 🌟 MI PORTAFOLIO DIGITAL
-## 👩‍🎓 1. Encabezado / Presentación
+## 👩‍🎓 1. Encabezado / Presentación.
 - Laura Mariana Estrada Briñez
 - Estudiante de grado 11°04
-- Institución Educativa El Chairá José María Córdoba
+- Institución Educativa El Chairá José María Córdoba.
 - ✈️ “Con esfuerzo y dedicación, cada día construyo el camino para cumplir mis sueños.”
 ## 🌷 2. Sobre mí
 - Soy de Cartagena del Chairá, un lugar donde he crecido y vivido muchas experiencias. Me considero una persona responsable, respetuosa, perseverante y con ganas de aprender cosas nuevas. Me gusta compartir con las personas que me rodean y realizar actividades que me ayuden a mejorar. En el futuro quiero estudiar para ser tripulante de cabina, porque me gustaría conocer diferentes lugares y cumplir uno de mis grandes sueños. Me motiva mi familia, mis metas y el deseo de salir adelante.
