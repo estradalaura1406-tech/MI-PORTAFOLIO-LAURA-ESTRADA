@@ -10,7 +10,7 @@
 - Estudio en la Institución Educativa El Chairá José María Córdoba. Me encuentro en una etapa muy importante de mi formación académica, ya que estoy terminando mi educación secundaria y preparándome para nuevos retos.
 - Bachillerato académico
 - Además, cuento con una formación técnica con el SENA en:
-    -📊 Técnico en Contabilización de Operaciones Comerciales y Financieras
+    - 📊 Técnico en Contabilización de Operaciones Comerciales y Financieras
      Esta formación me ha permitido aprender conocimientos relacionados con la contabilidad, las operaciones comerciales y financieras,        además de fortalecer mis habilidades para trabajar con herramientas digitales.
      Durante mi etapa académica he adquirido nuevos conocimientos y experiencias que me han ayudado a ser más responsable y organizada.        También he aprendido a enfrentar diferentes retos y a trabajar en equipo.
 ## 💡 4. Habilidades
@@ -32,5 +32,5 @@ Participé en el Día de la Ciencia con el proyecto “Celda de combustible micr
 - 🌱 EcoDigital
 Realice un proyecto sobre el manejo inadecuado de los residuos en la institución educativa. En este proyecto propuse utilizar         herramientas tecnológicas para promover una mejor disposición de los residuos. Aprendí que la tecnología puede utilizarse para buscar soluciones a problemas de nuestro colegio.
 ## 📩 Contacto 
-Telefono: 3213727460
-Correo electrónico: estradalaura1406@gmail.com
+   - Telefono: 3213727460
+   - Correo electrónico: estradalaura1406@gmail.com
